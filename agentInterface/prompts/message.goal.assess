@@ -1,0 +1,18 @@
+Let us try to move forward towards this goal.
+
+Answer the following questions:
+
+1. Do you think we have achieved this goa?
+2. What do we have left if anything?
+3. What do we need to do to achieve this goal?
+
+After you answer these questions, respond with a JSON blob in the format of below:
+
+```
+{
+    "reachedGoal": boolean
+}
+```
+
+
+

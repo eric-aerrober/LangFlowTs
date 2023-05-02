@@ -1,0 +1,15 @@
+create a caluclator repository in python. 
+
+The repository should take in simple strings such as "1 + 1" and return the result of the calculation. You should support the following operations: +, -, *, /, ^ along with parenthesis.
+
+for example:
+    
+    "1 + 1" = 2
+    "2 * ( 1 + 1 )" = 4
+    "(2 ^ 4) + (2 - 1)" = 17
+
+    
+The repository should have testing support and be able to pass unit tests.
+The repo should be able to be run from the command line and take in a string as an argument and return the result of the calculation.
+
+You have not completed this until you run the tests and they pass. If you do not verify that the tests pass, you will not get credit for this assignment.

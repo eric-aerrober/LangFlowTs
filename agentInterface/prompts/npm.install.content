@@ -1,0 +1,9 @@
+Running command `npm install {params}`
+
+Displaying the last 40 lines of output, truncated if necessary.
+
+--------------------
+
+{contents}
+
+--------------------

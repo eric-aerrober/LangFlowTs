@@ -1,0 +1,7 @@
+You have chosen to write a file. What is the path to the file you wish to write.
+
+If there is no file at the path you specify, it will be created. 
+If there is a file at the path you specify, it will be overwritten.
+
+Please respond with only the path of the file and nothing else. 
+Do not include any formatting around the file. 

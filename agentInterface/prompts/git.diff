@@ -1,0 +1,8 @@
+Running command `git status` shows the changes that have been made.
+They will be commited for you when you indicate you are done with this goal.
+
+--------------------
+
+{diff}
+
+--------------------

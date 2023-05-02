@@ -1,0 +1,13 @@
+You have decided to write to the file {path}.
+
+Whatever you respond with will be written word for word to the file. 
+Respond with the new contents of the file and nothing else. 
+Do not include any symbols you do not want to be written to the file.
+
+The following is INCORRECT:
+```python
+print(1)
+```
+
+The following is CORRECT:
+print(1)

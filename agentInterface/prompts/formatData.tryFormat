@@ -1,0 +1,6 @@
+Please format that response as a json string that matches the type definition below:
+
+{format}
+
+Respond to this message with the json string only. Do not include any other text or code in the response.
+You may have to add or remove data to get it to match the format exactly.
