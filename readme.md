@@ -7,9 +7,7 @@ This is a project for creating and visulizing AI coding agents. An output is cre
 
 Short video if it setting up a rep for itself:
 
-<video controls="controls" width="800" height="600" name="Video Name">
-  <source src="./imgs/m.mov">
-</video>
+![Mov](./imgs/movie.gif)
 
 
 ## Example
