@@ -7,7 +7,7 @@ This is a project for creating and visulizing AI coding agents. An output is cre
 
 Short video if it setting up a rep for itself:
 
-![Mov](./imgs/movie.gif)
+![Mov](./imgs/movie_compressed.gif)
 
 
 ## Example
