@@ -1,0 +1,4 @@
+cache
+logs
+node_modules
+tst/key.ts

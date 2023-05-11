@@ -1,5 +1,0 @@
-The repository needs to be in a stable state, so that the code can be used by others. 
-Key to this is tests passing and covering all current code.
-Even if the code is not complete, we should work to have the tests be runnable and passing.
-
-Lets worth together to get this done.

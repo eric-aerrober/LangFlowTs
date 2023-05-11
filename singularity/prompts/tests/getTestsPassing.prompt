@@ -1,0 +1,3 @@
+Tests should be passing for this to be considered complete.
+Even if there are no "testable" features, the tests should be in a passing state.
+Can we verify that is the case? If they are not passing, can we use tools to make them pass?

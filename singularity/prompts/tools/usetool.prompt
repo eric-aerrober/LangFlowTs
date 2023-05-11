@@ -1,0 +1,70 @@
+Please choose a tool to use from the below list that you think will best help you to achieve your goal.
+You can use more than one tool if you wish.
+
+----
+
+WRITEFILE: 
+- Write a file to the filesystem. The contents of the tile will be asked for later. Do not provide file contents here.
+- usage is to pass the file path as the param: 
+```
+{
+    tool: "writefile",
+    params: "directory/file.txt",
+}
+```
+
+INSTALL:
+- run command `npm install` in the directory with the inclusion of optional paramters
+- example usage that would execute `npm install --save-dev ts-node`: 
+```
+{
+    tool: "install",
+    params: "--save-dev ts-node",
+}
+```
+- do not 
+
+LISTWORKSPACE:
+- Shows all the files in your workspace, very useful for debugging and understanding what is going on.
+- usage: 
+```
+{
+    tool: "listworkspace",
+}
+```
+
+READFILE:
+- Reads a file from the filesystem. The contents of the file will be returned in the response.
+- usage is to pass the file path as the param:  
+```
+{
+    tool: "readfile",
+    params: "directory/file.txt",
+}
+```
+
+TEST: 
+- Runs the command `npm run test` in the directory and provides the output of the command in the response.
+- This takes in no parameters itself, but can be edited by changing what the test action is in the package.json file
+- usage: 
+```
+{
+    tool: "test",
+}
+```
+
+----
+
+respond like so: 
+
+```
+{
+    "tools": [
+        {
+            "tool": "tool",
+            ... args
+        }
+    ]
+}
+```
+

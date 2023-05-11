@@ -1,0 +1,6 @@
+I failed to parse that data correctly, can you try again? 
+Please respond with an exact json string without any formatting around it whatsoever.
+
+I will try to parse it like: `JSON.parse(your-response-here)`
+
+Error in the form of: {error}

@@ -1,0 +1,13 @@
+Please format the previous data so it is parsable by a JSON parser in valid json format.
+Respond exactly with the json data requested, nothing more, nothing less.
+
+The provided may be in an invalid form, or just a collection of sentenses. Its up to you to reason about the data and format it correctly.
+You may have to add, remove or modify the data to make it valid. The goal is to make it valid json.
+
+Your JSON data should conform the following schema:
+
+----
+
+{format}
+
+---

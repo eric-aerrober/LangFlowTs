@@ -1,9 +1,0 @@
-Answer the following questions as simply as possible
-
-1. Do you think these tests look ok for what we have currenty?
-2. If at all possible, tests should not result in an error state, even when the repo is not fully implemented.
-3. If they are broken, can we fix them?
-
-then finaly:
-
-4. Overall, do they need to be fixed to meet our goal? Respond like: {needToFixTests: true/false}

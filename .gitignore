@@ -1,9 +1,1 @@
-./workspace/**
-
-website/node_modules
-website/yarn-error.log
-website/yarn.lock
-
-agentInterface/node_modules
-agentInterface/yarn.lock
-agentInterface/pacakge-lock.json
+workspace
