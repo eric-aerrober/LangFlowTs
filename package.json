@@ -1,0 +1,20 @@
+{
+	"repository": "https://github.com/ignight-dev/LangFlowTs.git",
+	"workspaces": [
+		"website",
+		"singularity"
+	],
+	"scripts": {
+		"install:all": "npm install --workspace=website --workspace=singularity",
+		"prestart": "npm run install:all",
+		"start": "npm-run-all --parallel start:*",
+		"pretest": "npm run install:all",
+		"test": "npm run test --workspace=singularity",
+		"start:website": "npm run start --workspace=website",
+		"start:server": "npm run server --workspace=singularity"
+	},
+	"devDependencies": {
+		"npm-run-all": "^4.1.5"
+	},
+	"private": true
+}
