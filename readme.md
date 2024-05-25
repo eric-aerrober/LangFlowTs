@@ -1,3 +1,7 @@
+# THIS PROJECT IS NO LONGER BEING WORKED ON
+
+Please instead look at this repo here: [fire-aspect](https://github.com/eric-aerrober/fire-aspect)
+
 # Lang Flow TS
 
 A powerful AI agent written in pure typescript with clean visualization.
